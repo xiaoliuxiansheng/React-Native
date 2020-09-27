@@ -15,6 +15,6 @@
 ## 项目运行
 ```
 yarn && cd ios && pod install && cd .. # 安装依赖
-react-native run ios/android# 本地启动
+react-native run-ios/android# 本地启动
 
 ```
